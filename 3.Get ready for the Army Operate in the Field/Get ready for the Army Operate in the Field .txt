@@ -1,0 +1,17 @@
+Given 2 numbers in Hex format that represent 2 polynomials in GF(28) with m(x)?=?x8?+?x4?+?x3?+?x?+?1. Find the result of Adding and Multiplying those numbers. Note: Result of addition is the same as the result of subtraction.
+Input
+
+The input consists of 1 line that has 2 numbers, each of which consists of 2 Hex digits that represent the 2 given numbers as described above.
+Output
+
+In a single line print 2 numbers in Hex format(All characters must be capital), the first one should be the result of the addition of the given 2 numbers and the second is the result of multiplying them. These operations should be done in GF(28) with m(x)?=?x8?+?x4?+?x3?+?x?+?1.
+Example
+Input
+Copy
+
+01 01
+
+Output
+Copy
+
+00 01
