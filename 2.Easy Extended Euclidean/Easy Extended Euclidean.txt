@@ -1,0 +1,27 @@
+Assume you are working in mod(M) arithmetic, what is the additive and multiplicative inverse of N?
+Input
+
+The input consists of 1 line that has 2 numbers M,?N respectively (1?=?M,?N?=?20000000000000000000000)
+Output
+
+In case N has no multiplicative inverse, print "IMPOSSIBLE" without the quotes. Otherwise print 2 numbers which represent the additive and multiplicative inverses respectively of N. All printed numbers must be mod(M)
+Examples
+Input
+Copy
+
+3 2
+
+Output
+Copy
+
+1 2
+
+Input
+Copy
+
+6 3
+
+Output
+Copy
+
+IMPOSSIBLE

@@ -1,0 +1,17 @@
+Given 2 numbers, A and B. Print the Greatest Common Divisor of the 2 numbers.
+Input
+
+The input consists of a single line that has 2 integers A and B (0?=?A,?B?=?2000000000)
+Output
+
+The output should be a single line that has the Greatest Common Divisor of A and B.
+Example
+Input
+Copy
+
+15 27
+
+Output
+Copy
+
+3
